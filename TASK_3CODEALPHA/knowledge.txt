@@ -1,0 +1,9 @@
+java=Java is a high-level object-oriented programming language.
+sql=SQL stands for Structured Query Language and is used for databases.
+python=Python is widely used in AI, Data Science and Web Development.
+machine learning=Machine Learning allows systems to learn from data.
+artificial intelligence=Artificial Intelligence enables machines to mimic human intelligence.
+html=HTML is used to structure web pages.
+css=CSS is used to style web pages.
+javascript=JavaScript adds interactivity to websites.
+oop=Object Oriented Programming includes Encapsulation, Inheritance, Polymorphism and Abstraction.

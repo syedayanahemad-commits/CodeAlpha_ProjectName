@@ -1,0 +1,24 @@
+Booking ID: 1
+Customer: syed ayan
+Room: Standard
+Days: 3
+Total: ₹4500.0
+------------------
+Booking ID: 1
+Customer: sam
+Room: Suite
+Days: 5
+Total: ₹20000.0
+------------------
+Booking ID: 2
+Customer: ayan
+Room: Deluxe
+Days: 4
+Total: ₹10000.0
+------------------
+Booking ID: 1
+Customer: syed ayan
+Room: Standard
+Days: 7
+Total: ₹10500.0
+------------------
